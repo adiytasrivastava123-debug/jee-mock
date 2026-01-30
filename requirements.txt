@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+googletrans==4.0.0rc1
